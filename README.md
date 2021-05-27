@@ -1,10 +1,10 @@
 # Bivariate_gauusian_and_box-muller_method-to-confirm.
-Generating univariate normal distribution.
+1. Generating univariate normal distribution.
 
-Generatiung bivariate gaussian distribution.
+2. Generatiung bivariate gaussian distribution.
 
-Plotting their histograms (Matplotlib 3D).
+3. Plotting their histograms (Matplotlib 3D).
 
-Computing their pdfs and comparing to histograms.
+4. Computing their pdfs and comparing to histograms.
 
-Using box-muller method gor generating normal distribution.
+5. Using box-muller method gor generating normal distribution.
