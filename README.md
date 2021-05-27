@@ -1,4 +1,4 @@
-# Bivariate_gauusian_and_box-muller_method-to-confirm.
+# Bivariate_gauusian_and_box-muller_method.
 1. Generating univariate normal distribution.
 
 2. Generatiung bivariate gaussian distribution.
